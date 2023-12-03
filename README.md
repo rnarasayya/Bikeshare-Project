@@ -8,3 +8,4 @@ betwen conditions of interest. It also runs the bikeshare_models.py file.
 The bikeshare_models.py file use a KNeighborsRegressor to predict total, casual, and registered ridership.
 There is also a file called bikeshare_tests.py which tests the bikeshare_corr_tests and bikeshare_models
 functions with a smaller version of the Capital Bikeshare system dataset.
+In the future, I would like to return to this analysis and use some different machine learning models, like random forests or boosted trees.
